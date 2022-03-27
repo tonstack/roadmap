@@ -14,14 +14,7 @@
 | Status        | Task                            |
 |---------------|---------------------------------|
 | `planned`     | Develop TON Wallet              |
-| `planned`     | Develop TON Explorer            |
-| `planned`     | Develop DAO TON Apps Catalog    |
 
-
-
-
-### In the future we will be able to define deadlines
-- 2022 Q2 | 2022 Q3 | 2022 Q4
 
 ### Take part
 
