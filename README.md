@@ -4,6 +4,8 @@
 |---------|---------------------------------|
 | ☑       | Release javascript ton package  |
 | ☑       | Develop TON Wallet              |
+| ☑       | Develop TON Explorer            |
+| ☑       | Develop DAO TON Apps Catalog    |
 | ☑       | Research & develop ADNL p2p     |
 | ☑       | TL library                      |
 | ☑       | TL-B library                    |
