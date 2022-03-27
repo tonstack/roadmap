@@ -2,10 +2,12 @@
 
 | Status  | Task                            |
 |---------|---------------------------------|
-| ☑       | jsvascript ton package release  |
-| ☑       | research & develop ADNL p2p     |
+| ☑       | Release jsvascript ton package  |
+| ☑       | Research & develop ADNL p2p     |
 | ☑       | TL library                      |
 | ☑       | TL-B library                    |
+| ☑       | Improve the lite-client         |
+| ☑       | Develop the lite-server         |
 
 
 ### in the future we will be able to define deadlines
