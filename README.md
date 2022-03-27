@@ -18,7 +18,7 @@
 
 ### Take part
 
-If you would like to participate and contribute to 
+If you would like to participate and contribute to  
 open-source development of TON, be sure to contact us:
 
 - by e-mail: tonstack@protonmail.com
