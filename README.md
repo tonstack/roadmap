@@ -1,16 +1,23 @@
 # TonStack global roadmap (TSGR)
 
+### Main tasks:
 | Status  | Task                            |
 |---------|---------------------------------|
 | ☑       | Release javascript ton package  |
-| ☑       | Develop TON Wallet              |
-| ☑       | Develop TON Explorer            |
-| ☑       | Develop DAO TON Apps Catalog    |
 | ☑       | Research & develop ADNL p2p     |
 | ☑       | TL library                      |
 | ☑       | TL-B library                    |
 | ☑       | Improve the lite-client         |
 | ☑       | Develop the lite-server         |
+
+### Planned services:
+| Status  | Task                            |
+|---------|---------------------------------|
+| ☑       | Develop TON Wallet              |
+| ☑       | Develop TON Explorer            |
+| ☑       | Develop DAO TON Apps Catalog    |
+
+
 
 
 ### In the future we will be able to define deadlines
