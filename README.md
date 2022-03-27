@@ -2,7 +2,7 @@
 
 | Status  | Task                            |
 |---------|---------------------------------|
-| ☑       | Release jsvascript ton package  |
+| ☑       | Release javascript ton package  |
 | ☑       | Research & develop ADNL p2p     |
 | ☑       | TL library                      |
 | ☑       | TL-B library                    |
