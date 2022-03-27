@@ -15,3 +15,11 @@
 
 ### in the future we will be able to define deadlines
 - 2022 Q2 | 2022 Q3 | 2022 Q4
+
+### Take part
+
+If you would like to participate and contribute to 
+open-source development of TON, be sure to contact us:
+
+- by e-mail: tonstack@protonmail.com
+- or create [an issue](https://github.com/tonstack/roadmap/issues)
