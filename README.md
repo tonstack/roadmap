@@ -24,3 +24,9 @@ open-source development of TON, be sure to contact us:
 - by e-mail: tonstack@protonmail.com
 - or create [an issue](https://github.com/tonstack/roadmap/issues)
 - or push admins in [Telegram chat](https://t.me/tonstack_chat)
+
+### Our team is interested in
+
+- Rust developers
+- TypeScript developers
+- FunC/Fift developers 
