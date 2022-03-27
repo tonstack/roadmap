@@ -1,10 +1,11 @@
 # TonStack global roadmap (TSGR)
 
-|   |   |
-|---|---|
-| ☑ | jsvascript ton package release |
-| ☑ | research & develop ADNL p2p |
-|   |   |
+| Status  | Task                            |
+|---------|---------------------------------|
+| ☑       | jsvascript ton package release  |
+| ☑       | research & develop ADNL p2p     |
+| ☑       | TL library                      |
+| ☑       | TL-B library                    |
 
 
 ### in the future we will be able to define deadlines
