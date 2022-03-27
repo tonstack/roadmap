@@ -3,6 +3,7 @@
 | Status  | Task                            |
 |---------|---------------------------------|
 | ☑       | Release javascript ton package  |
+| ☑       | Develop TON Wallet              |
 | ☑       | Research & develop ADNL p2p     |
 | ☑       | TL library                      |
 | ☑       | TL-B library                    |
