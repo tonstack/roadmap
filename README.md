@@ -13,7 +13,7 @@
 | ☑       | Develop the lite-server         |
 
 
-### in the future we will be able to define deadlines
+### In the future we will be able to define deadlines
 - 2022 Q2 | 2022 Q3 | 2022 Q4
 
 ### Take part
@@ -23,3 +23,4 @@ open-source development of TON, be sure to contact us:
 
 - by e-mail: tonstack@protonmail.com
 - or create [an issue](https://github.com/tonstack/roadmap/issues)
+- or push admins in [Telegram chat](https://t.me/tonstack_chat)
