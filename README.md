@@ -7,7 +7,7 @@
 | `in progress` | Research & develop ADNL p2p     |
 | `planned`     | TL library                      |
 | `planned`     | TL-B library                    |
-| `planned`     | Improve the lite-client         |
+| `in progress` | Improve the lite-client         |
 | `planned`     | Develop the lite-server         |
 
 ### Planned services:
